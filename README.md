@@ -346,3 +346,15 @@ For support and questions:
 - **Admin Dashboard**: Administrative interface
 - **Analytics**: Order and user analytics
 - **Payment Integration**: Real payment gateway integration
+
+<img width="773" height="257" alt="image" src="https://github.com/user-attachments/assets/ae585738-911a-4251-8a5b-2c38efa665a6" />
+
+<img width="758" height="189" alt="image" src="https://github.com/user-attachments/assets/d46d546f-e358-4462-be1c-f54ae63c69f6" />
+
+<img width="761" height="278" alt="image" src="https://github.com/user-attachments/assets/1156ebd2-3f33-4a6e-8336-c15a6cc41148" />
+
+<img width="759" height="217" alt="image" src="https://github.com/user-attachments/assets/eab3d34f-c39f-4179-9419-72d152aa13ce" />
+
+
+
+
