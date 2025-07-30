@@ -347,6 +347,12 @@ For support and questions:
 - **Analytics**: Order and user analytics
 - **Payment Integration**: Real payment gateway integration
 
+
+<img width="950" height="450" alt="register" src="https://github.com/user-attachments/assets/42cdad40-a1b3-45be-8874-f331c07340bd" />
+
+<img width="950" height="450" alt="Dashboard" src="https://github.com/user-attachments/assets/746de89a-74cf-46f4-81c5-2f9e75ac340a" />
+
+
 <img width="773" height="257" alt="image" src="https://github.com/user-attachments/assets/ae585738-911a-4251-8a5b-2c38efa665a6" />
 
 <img width="758" height="189" alt="image" src="https://github.com/user-attachments/assets/d46d546f-e358-4462-be1c-f54ae63c69f6" />
